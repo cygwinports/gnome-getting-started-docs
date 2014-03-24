@@ -1,0 +1,13 @@
+inherit gnome2
+
+NAME="gnome-getting-started-docs"
+VERSION=3.10.2
+RELEASE=1
+CATEGORY="Doc"
+SUMMARY="GNOME new user documentation"
+DESCRIPTION="Help documentation for a new GNOME user"
+
+ARCH=noarch
+
+DEPEND="gnome-common
+	yelp-tools"
