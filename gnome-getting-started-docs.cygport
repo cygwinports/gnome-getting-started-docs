@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="gnome-getting-started-docs"
-VERSION=3.18.2
+VERSION=3.22.0
 RELEASE=1
 CATEGORY="Doc"
 SUMMARY="GNOME new user documentation"
